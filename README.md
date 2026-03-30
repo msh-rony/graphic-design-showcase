@@ -21,6 +21,7 @@ Welcome to my jersey design portfolio! These concepts are created under the bran
 ## 🇲🇦 African Stars
 ![Morocco Design](7.png)
 
+Disclaimer: These designs are conceptual fan art created for portfolio and customization purposes. All logos and trademarks belong to their respective owners. Jersy Atlantis does not claim ownership of official team or brand logos.
 ---
 **Tools Used:** Adobe Photoshop / Illustrator / Canva
 **Brand:** Jersy Atlantis - Quality Meets Affordability# graphic-design-showcase
