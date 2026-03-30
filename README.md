@@ -3,7 +3,7 @@
 Welcome to my jersey design portfolio! These concepts are created under the brand **Jersy Atlantis**, focusing on high-quality aesthetics for national football teams.
 
 ## 🇧🇩 Feature: Bangladesh Concept
-![Bangladesh Design](6.jpg)
+![Bangladesh Design](6.png)
 
 ## 🌎 Global Icons
 | Argentina | Brazil | Portugal |
