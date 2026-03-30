@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Jersy Atlantis_fb_Cover photo.png" width="100%" alt="Jersy Atlantis Cover">
+  <img src="Jersy Atlantis_fb_Cover photo .png" width="100%" alt="Jersy Atlantis Cover">
 </p>
 # ⚽ Football Jersey Design Concepts 2026
 
